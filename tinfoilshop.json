@@ -1,4 +1,6 @@
 {
-    "locations": ["https://switch.teknik.app"],
-    "success": "AIO黑商店导入服务器\nAIO Free Shop Redirection Server\n\nSource:\nhttps://github.com/raytan1807/tinfoil-aio"
+    "locations": [
+        {"url": "https://nx.ghostland.at", "title": "Ghost eShop", "action": "add"},
+        {"url": "https://tinfoil.ultranx.ru/tinfoil", "title": "UltraNX", "action": "add"}
+    ]
 }
